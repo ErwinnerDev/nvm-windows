@@ -1,9 +1,12 @@
 <div align="center"><h2>Notice: We are working full time work on <a href="https://github.com/coreybutler/nvm-windows/wiki/Runtime">Runtime</a>, the successor to NVM for Windows.</h2>Complete <a href="https://t.co/oGqQCM9FPx">this form</a> to provide your thoughts and sign up for progress updates.<br/><br/>Updates will also be posted on the <A href="https://linkedin.com/company/authorsoftware">Author Software LinkedIn Page</a>.</div>
 <br/><br/>
 <h1 align="center">NVM for Windows</h1>
-
-<h1>TUTORIAL</h1>
-<a href="https://www.youtube.com/watch?v=Z-Ofqd2yBCc&t=435s">LINK YOUTUBE</a>a
+<div align="center">
+  <h1>TUTORIAL</h1>
+<a href="https://www.youtube.com/watch?v=Z-Ofqd2yBCc&t=435s">LINK YOUTUBE</a>
+<br>
+<a href="https://www-linkedin-com.translate.goog/pulse/how-fix-npm-file-cprogram-filesnodejsnpmps1-cannot-loaded-hasan-ojsnc?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc">Error NPM</a>
+</div>
 
 <div align="center">
   The <a href="https://docs.microsoft.com/en-us/windows/nodejs/setup-on-windows">Microsoft</a>/<a href="https://docs.npmjs.com/cli/v9/configuring-npm/install#windows-node-version-managers">npm</a>/<a href="https://cloud.google.com/nodejs/docs/setup#installing_nvm">Google</a> recommended Node.js version manager for <em>Windows</em>.<br/>
